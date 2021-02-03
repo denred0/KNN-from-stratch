@@ -1,3 +1,3 @@
 # KNN с нуля
 
-Реализация метода ближайших соседей без использования sklearn.neighbors.KNeighborsClassifier.
+Implementation KNN without sklearn.neighbors.KNeighborsClassifier.
